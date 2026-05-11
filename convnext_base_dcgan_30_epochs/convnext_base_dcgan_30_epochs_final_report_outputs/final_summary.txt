@@ -1,0 +1,20 @@
+Final Evaluation Summary
+========================
+
+Generated on: 2026-05-10 08:05:21.219715
+
+Train Loss: 0.2585
+Train Accuracy: 90.80%
+
+Validation Loss: 0.4153
+Validation Accuracy: 84.81%
+Validation Balanced Accuracy: 71.57%
+Macro Precision: 0.6800
+Macro Recall: 0.7157
+Macro F1-score: 0.6905
+Weighted Precision: 0.8580
+Weighted Recall: 0.8481
+Weighted F1-score: 0.8514
+
+Macro ROC-AUC: 0.9677
+Weighted ROC-AUC: 0.9634

@@ -1,0 +1,13 @@
+Metric,Value
+Train Loss,0.25846305311005435
+Train Accuracy,0.9079651941097724
+Train Balanced Accuracy,0.8558178517816096
+Validation Loss,0.4152928450340567
+Validation Accuracy,0.8480589022757697
+Validation Balanced Accuracy,0.7157173341617705
+Macro Precision,0.6800423303738652
+Macro Recall,0.7157173341617705
+Macro F1-score,0.6905100843743874
+Weighted Precision,0.8580244311043522
+Weighted Recall,0.8480589022757697
+Weighted F1-score,0.8514099904978233

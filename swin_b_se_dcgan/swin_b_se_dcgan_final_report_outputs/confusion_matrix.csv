@@ -1,0 +1,8 @@
+,Pred nv,Pred mel,Pred bkl,Pred bcc,Pred akiec,Pred vasc,Pred df
+True nv,0,2,6,0,7,1065,0
+True mel,3,0,4,0,111,5,0
+True bkl,6,1,128,0,3,7,0
+True bcc,2,59,2,0,0,2,0
+True akiec,45,0,1,0,0,0,0
+True vasc,0,0,0,0,0,0,20
+True df,0,0,0,15,0,0,0

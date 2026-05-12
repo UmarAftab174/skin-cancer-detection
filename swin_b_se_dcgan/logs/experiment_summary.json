@@ -1,0 +1,40 @@
+{
+    "model_name": "Swin Transformer-B + SE-Net Attention",
+    "novel_component": "Swin Transformer-B",
+    "established_component": "SE-Net attention block",
+    "num_classes": 7,
+    "class_names": [
+        "akiec",
+        "bcc",
+        "bkl",
+        "df",
+        "mel",
+        "nv",
+        "vasc"
+    ],
+    "image_size": 224,
+    "batch_size": 16,
+    "num_epochs": 30,
+    "learning_rate": 5e-05,
+    "weight_decay": 0.0001,
+    "use_synthetic_dcgan": true,
+    "synthetic_source": "DCGAN",
+    "train_size": 31294,
+    "real_train_size": 7009,
+    "synthetic_train_size": 24285,
+    "val_size": 1503,
+    "test_size": 1503,
+    "best_val_balanced_accuracy": 0.8826049724591992,
+    "test_results": {
+        "test_loss": 0.34721431772380135,
+        "test_accuracy": 0.9015302727877578,
+        "test_balanced_accuracy": 0.8711463666791815,
+        "test_precision_macro": 0.8693388361927932,
+        "test_recall_macro": 0.8711463666791815,
+        "test_f1_macro": 0.8678429361966612,
+        "test_precision_weighted": 0.9019455836514108,
+        "test_recall_weighted": 0.9015302727877578,
+        "test_f1_weighted": 0.9012312765620313,
+        "test_auc_macro_ovr": 0.9865710357532268
+    }
+}
